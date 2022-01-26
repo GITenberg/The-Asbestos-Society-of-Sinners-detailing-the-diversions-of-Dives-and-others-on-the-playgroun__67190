@@ -1,11 +1,16 @@
 _repo: The-Asbestos-Society-of-Sinners-detailing-the-diversions-of-Dives-and-others-on-the-playgroun__67190
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67190-h/images/cover.jpg
 creator:
   author:
     agent_name: Fogg, Lawrence Daniel
     gutenberg_agent_id: '54136'
     url: http://www.gutenberg.org/2009/agents/54136
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67190#The-Asbestos-Society-of-Sinners-detailing-the-diversions-of-Dives-and-others-on-the-playgroun_
 gutenberg_issued: '2022-01-17'
 identifiers:
   gutenberg: '67190'
